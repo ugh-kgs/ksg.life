@@ -1,8 +1,0 @@
-_site/
-.DS_Store
-.env
-.env.production
-.idea/
-.nova/
-node_modules/
-npm-debug.log*
