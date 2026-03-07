@@ -3,22 +3,34 @@
     <title>Karmen Blog</title>
     <link href="https://ksg.life/feed.xml" rel="self" />
     <link href="https://ksg.life" />
-    <updated>2026-03-06T22:12:58-06:00</updated>
+    <updated>2026-03-06T22:22:05-06:00</updated>
     <author>
         <name>Karmen Griffin</name>
     </author>
     <id>https://ksg.life</id>
 
     <entry>
-        <title>Hello World!</title>
+        <title>cool picture of an old guy i found</title>
         <author>
             <name>Karmen Griffin</name>
         </author>
-        <link href="https://ksg.life/hello-world.html"/>
-        <id>https://ksg.life/hello-world.html</id>
+        <link href="https://ksg.life/cool-picture-of-an-old-guy-i-found.html"/>
+        <id>https://ksg.life/cool-picture-of-an-old-guy-i-found.html</id>
 
-        <updated>2026-03-06T22:12:58-06:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2026-03-06T22:22:05-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    pavlov Hello this is a cool guy i found he's really old and stuff. also look at this cool video of this guy dying
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy" src="https://ksg.life/media/posts/2/Ivan_Pavlov_NLM3.jpg" alt="old guy" width="1000" height="1460" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ksg.life/media/posts/2/responsive/Ivan_Pavlov_NLM3-xs.jpg 640w ,https://ksg.life/media/posts/2/responsive/Ivan_Pavlov_NLM3-sm.jpg 768w ,https://ksg.life/media/posts/2/responsive/Ivan_Pavlov_NLM3-md.jpg 1024w ,https://ksg.life/media/posts/2/responsive/Ivan_Pavlov_NLM3-lg.jpg 1366w ,https://ksg.life/media/posts/2/responsive/Ivan_Pavlov_NLM3-xl.jpg 1600w ,https://ksg.life/media/posts/2/responsive/Ivan_Pavlov_NLM3-2xl.jpg 1920w">
+<figcaption>pavlov</figcaption>
+</figure>
+<p>Hello this is a cool guy i found he's really old and stuff. also look at this cool video of this guy dying</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/cGmMO3Y8a_w" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
     </entry>
 </feed>
