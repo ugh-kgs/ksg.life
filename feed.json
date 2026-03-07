@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Karmen Blog",
+    "description": "",
+    "home_page_url": "https://ksg.life",
+    "feed_url": "https://ksg.life/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Karmen Griffin"
+    },
+    "items": [
+        {
+            "id": "https://ksg.life/hello-world.html",
+            "url": "https://ksg.life/hello-world.html",
+            "title": "Hello World!",
+            "author": {
+                "name": "Karmen Griffin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-06T22:12:58-06:00",
+            "date_modified": "2026-03-06T22:12:58-06:00"
+        }
+    ]
+}
